@@ -22,25 +22,6 @@ The goal is to develop a robust model that:
 
 ---
 
-## Getting Started
-
-To run this project locally, follow the steps below.
-
-### Clone the repository
-
-git clone https://github.com/your-username/MilitaryObjectsRecognition.git
-cd MilitaryObjectsRecognition
-
-### Install dependencies
-
-pip install ultralytics torch torchvision matplotlib opencv-python
-
-Ensure you have Python 3.11+ installed.
-
-### Run the script
-
-python Recognition_test.py
-
 ##  Dataset Used
 
 **Military Assets Dataset (12 Classes – YOLOv8 Format)**  
